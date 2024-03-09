@@ -1,0 +1,9 @@
+body {
+    font-family: sans-serif;
+    background-color: rgb(245, 245, 33);
+    color: rgb(126, 10, 70);
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+a {
+    border: groove black 10px ;
+}
